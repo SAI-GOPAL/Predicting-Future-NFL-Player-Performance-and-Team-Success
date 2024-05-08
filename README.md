@@ -1,3 +1,9 @@
+![UMBC logo](https://github.com/SAI-GOPAL/Predicting-Future-NFL-Player-Performance-and-Team-Success/assets/46624385/327bfb1a-f4bf-4bf1-b31c-97705ade7f92)       				
+![Football image 1](https://github.com/SAI-GOPAL/Predicting-Future-NFL-Player-Performance-and-Team-Success/assets/46624385/75ada9dd-ba47-4aae-9656-0231bdba724e)
+
+
+
+
 # Predicting Future NFL Player Performance and Team Success
 **A Data-Driven Study in Fantasy Football**  
 
